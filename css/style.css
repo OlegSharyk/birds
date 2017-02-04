@@ -1,0 +1,12 @@
+.top {
+  padding:50px 0 50px;
+  border-bottom: 3px solid #ccc;
+  background:#faf2cc;
+}
+.content {
+  padding:50px 0;
+}
+.bottom {
+  padding:20px 0 50px;
+  border-bottom: 3px solid #ccc;
+}
